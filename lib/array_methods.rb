@@ -3,7 +3,8 @@ array.include?(element)
 end
 
 def using_sort(array)
-
+famous_wizards = ["wow", "Gandalf", "arrays!"]
+famous_wizards.sort
 end
 
 def using_reverse(array)
